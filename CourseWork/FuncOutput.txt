@@ -1,0 +1,1461 @@
+[04.12.2023 22:01] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[04.12.2023 22:22] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[04.12.2023 22:23] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[04.12.2023 22:29] Назва функції: AddInformation {
+
+Surname: Legeza
+Water Use: 15
+Light Use: 14
+Flat Number: 1
+Year: 2020
+Month: March
+Processed: Data successfully added
+
+}
+
+
+[04.12.2023 22:32] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[04.12.2023 22:43] Назва функції: OutputToFile {
+
+Flat information successfully output to file
+}
+
+
+[04.12.2023 23:33] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[04.12.2023 23:33] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[04.12.2023 23:33] Назва функції: ReadFromFile {
+
+File Selected: 2021.txt
+Input Year: 2021
+Data Successfully Read and Updated
+
+}
+
+
+[04.12.2023 23:33] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:3 4 9 11 
+Month: February, Not filled info:1 4 5 9 
+Month: March, Not filled info:6 7 8 14 15 
+Month: April, Not filled info:2 3 4 5 6 
+Month: May, Not filled info:1 2 3 4 5 11 12 13 
+Month: June, Not filled info:1 2 6 8 10 14 
+Month: July, Not filled info:3 4 6 7 
+Month: August, Not filled info:1 3 8 9 11 15 
+Month: September, Not filled info:1 2 4 5 9 12 
+Month: October, Not filled info:1 3 9 10 12 
+Month: November, Not filled info:2 4 5 6 7 14 
+Month: December, Not filled info:1 3 10 13 
+
+}
+
+
+[04.12.2023 23:34] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for any flats
+Month: February, Not filled info:for any flats
+Month: March, Not filled info:for any flats
+Month: April, Not filled info:for any flats
+Month: May, Not filled info:for any flats
+Month: June, Not filled info:for any flats
+Month: July, Not filled info:for any flats
+Month: August, Not filled info:for any flats
+Month: September, Not filled info:for any flats
+Month: October, Not filled info:for any flats
+Month: November, Not filled info:for any flats
+Month: December, Not filled info:for any flats
+
+}
+
+
+[04.12.2023 23:34] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for any flats
+Month: February, Not filled info:for any flats
+Month: March, Not filled info:for any flats
+Month: April, Not filled info:for any flats
+Month: May, Not filled info:for any flats
+Month: June, Not filled info:for any flats
+Month: July, Not filled info:for any flats
+Month: August, Not filled info:for any flats
+Month: September, Not filled info:for any flats
+Month: October, Not filled info:for any flats
+Month: November, Not filled info:for any flats
+Month: December, Not filled info:for any flats
+
+}
+
+
+[04.12.2023 23:34] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 4859,70, Light Expenses: 3612,80, Total Expenses: 8472,50
+Month: February, Water Expenses: 4337,81, Light Expenses: 3379,80, Total Expenses: 7717,61
+Month: March, Water Expenses: 5399,96, Light Expenses: 3181,40, Total Expenses: 8581,36
+Month: April, Water Expenses: 4980,92, Light Expenses: 4119,00, Total Expenses: 9099,92
+Month: May, Water Expenses: 4090,46, Light Expenses: 3424,60, Total Expenses: 7515,06
+Month: June, Water Expenses: 3747,08, Light Expenses: 3834,20, Total Expenses: 7581,28
+Month: July, Water Expenses: 5085,68, Light Expenses: 4074,20, Total Expenses: 9159,88
+Month: August, Water Expenses: 5330,12, Light Expenses: 3906,68, Total Expenses: 9236,80
+Month: September, Water Expenses: 4163,21, Light Expenses: 3603,80, Total Expenses: 7767,01
+Month: October, Water Expenses: 4628,81, Light Expenses: 3531,80, Total Expenses: 8160,61
+Month: November, Water Expenses: 2929,37, Light Expenses: 3794,20, Total Expenses: 6723,57
+Month: December, Water Expenses: 3974,06, Light Expenses: 3989,40, Total Expenses: 7963,46
+
+}
+
+
+[04.12.2023 23:34] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for any flats
+Month: February, Not filled info:for any flats
+Month: March, Not filled info:for any flats
+Month: April, Not filled info:for any flats
+Month: May, Not filled info:for any flats
+Month: June, Not filled info:for any flats
+Month: July, Not filled info:for any flats
+Month: August, Not filled info:for any flats
+Month: September, Not filled info:for any flats
+Month: October, Not filled info:for any flats
+Month: November, Not filled info:for any flats
+Month: December, Not filled info:for any flats
+
+}
+
+
+[04.12.2023 23:34] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:6 9 13 
+Month: February, Not filled info:1 4 5 7 14 15 
+Month: March, Not filled info:3 5 6 9 10 
+Month: April, Not filled info:2 8 
+Month: May, Not filled info:2 3 4 6 8 
+Month: June, Not filled info:1 2 5 7 10 11 14 
+Month: July, Not filled info:3 4 12 15 
+Month: August, Not filled info:1 3 6 
+Month: September, Not filled info:2 5 9 10 13 
+Month: October, Not filled info:1 3 
+Month: November, Not filled info:2 4 8 14 
+Month: December, Not filled info:1 7 11 13 15 
+
+}
+
+
+[04.12.2023 23:34] Назва функції: MonthsExpences {
+
+Information successfully cleared information
+
+}
+
+
+[04.12.2023 23:34] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for each flats
+Month: February, Not filled info:for each flats
+Month: March, Not filled info:for each flats
+Month: April, Not filled info:for each flats
+Month: May, Not filled info:for each flats
+Month: June, Not filled info:for each flats
+Month: July, Not filled info:for each flats
+Month: August, Not filled info:for each flats
+Month: September, Not filled info:for each flats
+Month: October, Not filled info:for each flats
+Month: November, Not filled info:for each flats
+Month: December, Not filled info:for each flats
+
+}
+
+
+[05.12.2023 00:04] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 00:04] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:6 9 13 
+Month: February, Not filled info:1 4 5 7 14 
+Month: March, Not filled info:3 5 6 9 10 
+Month: April, Not filled info:2 8 
+Month: May, Not filled info:2 3 4 6 8 
+Month: June, Not filled info:1 2 5 7 10 11 14 
+Month: July, Not filled info:3 4 12 
+Month: August, Not filled info:1 3 6 
+Month: September, Not filled info:2 5 9 10 13 
+Month: October, Not filled info:1 3 
+Month: November, Not filled info:2 4 8 14 
+Month: December, Not filled info:1 7 11 13 
+
+}
+
+
+[05.12.2023 00:05] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 3832,40, Light Expenses: 2379,90, Total Expenses: 6212,30
+Month: February, Water Expenses: 3340,96, Light Expenses: 1902,20, Total Expenses: 5243,16
+Month: March, Water Expenses: 3381,16, Light Expenses: 1961,00, Total Expenses: 5342,16
+Month: April, Water Expenses: 4445,12, Light Expenses: 2734,40, Total Expenses: 7179,52
+Month: May, Water Expenses: 3306,12, Light Expenses: 2231,00, Total Expenses: 5537,12
+Month: June, Water Expenses: 2242,16, Light Expenses: 1646,00, Total Expenses: 3888,16
+Month: July, Water Expenses: 4158,36, Light Expenses: 2330,15, Total Expenses: 6488,51
+Month: August, Water Expenses: 3826,04, Light Expenses: 2539,55, Total Expenses: 6365,59
+Month: September, Water Expenses: 3059,56, Light Expenses: 1854,80, Total Expenses: 4914,36
+Month: October, Water Expenses: 3847,48, Light Expenses: 2765,45, Total Expenses: 6612,93
+Month: November, Water Expenses: 2882,68, Light Expenses: 2315,60, Total Expenses: 5198,28
+Month: December, Water Expenses: 3185,52, Light Expenses: 2341,10, Total Expenses: 5526,62
+
+}
+
+
+[05.12.2023 00:06] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Legeza, Water price: 2572,80, Light price: 1719,00, Total price: 4291,80
+
+}
+
+
+[05.12.2023 00:06] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Bodnar, Water price: 2669,28, Light price: 1524,45, Total price: 4193,73
+Surname: Feduniak, Water price: 3084,68, Light price: 1767,90, Total price: 4852,58
+Surname: Legeza, Water price: 2572,80, Light price: 1719,00, Total price: 4291,80
+Surname: Lukianov, Water price: 2693,40, Light price: 1820,40, Total price: 4513,80
+Surname: Revus, Water price: 2154,72, Light price: 1942,50, Total price: 4097,22
+Surname: Skakovskyi, Water price: 2604,96, Light price: 1713,30, Total price: 4318,26
+
+}
+
+
+[05.12.2023 00:07] Назва функції: SetPrice {
+
+Water price set to 10,00, Light price set to 10,00
+}
+
+
+[05.12.2023 00:07] Назва функції: SetPrice {
+
+Water price set to 10,00, Light price set to 10,00
+}
+
+
+[05.12.2023 00:07] Назва функції: SetPrice {
+
+Water price set to 10,00, Light price set to 10,00
+}
+
+
+[05.12.2023 00:08] Назва функції: DisplayRichPerson {
+
+Flats with the highest expenses:
+Flat 12, Water Expenses: 3990,52, Light Expenses: 2432,85
+Total expenses: 6423,37
+
+}
+
+
+[05.12.2023 00:30] Назва функції: SetPrice {
+
+Water price set to 10,00, Light price set to 10,00
+}
+
+
+[05.12.2023 00:31] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 00:31] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Bodnar, Water price: 3579,30, Light price: 2765,60, Total price: 6344,90
+Surname: Feduniak, Water price: 3631,68, Light price: 3050,08, Total price: 6681,76
+Surname: Legeza, Water price: 3573,48, Light price: 2977,12, Total price: 6550,60
+Surname: Lukianov, Water price: 3550,20, Light price: 2954,88, Total price: 6505,08
+Surname: Revus, Water price: 3518,19, Light price: 3240,80, Total price: 6758,99
+Surname: Skakovskyi, Water price: 3567,66, Light price: 3102,72, Total price: 6670,38
+
+}
+
+
+[05.12.2023 04:01] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 04:01] Назва функції: MonthsExpences {
+
+Information successfully cleared information
+
+}
+
+
+[05.12.2023 04:03] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 04:05] Назва функції: MonthsExpences {
+
+Data successfully cleared
+
+}
+
+
+[05.12.2023 04:48] Назва функції: AddInformation {
+
+Surname: Legeza
+Water Use: 11.4
+Light Use: 165.8
+Flat Number: 3
+Year: 2022
+Month: April
+Processed: Data successfully added
+
+}
+
+
+[05.12.2023 04:48] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for each flats
+Month: February, Not filled info:for each flats
+Month: March, Not filled info:for each flats
+Month: April, Not filled info:for each flats
+Month: May, Not filled info:for each flats
+Month: June, Not filled info:for each flats
+Month: July, Not filled info:for each flats
+Month: August, Not filled info:for each flats
+Month: September, Not filled info:for each flats
+Month: October, Not filled info:for each flats
+Month: November, Not filled info:for each flats
+Month: December, Not filled info:for each flats
+
+}
+
+
+[05.12.2023 04:48] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for each flats
+Month: February, Not filled info:for each flats
+Month: March, Not filled info:for each flats
+Month: April, Not filled info:1 2 4 5 6 7 8 9 10 11 12 13 14 15 
+Month: May, Not filled info:for each flats
+Month: June, Not filled info:for each flats
+Month: July, Not filled info:for each flats
+Month: August, Not filled info:for each flats
+Month: September, Not filled info:for each flats
+Month: October, Not filled info:for each flats
+Month: November, Not filled info:for each flats
+Month: December, Not filled info:for each flats
+
+}
+
+
+[05.12.2023 04:49] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 04:50] Назва функції: SetPrice {
+
+Water price set to 24,60, Light price set to 1,30
+}
+
+
+[05.12.2023 04:51] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 4859,70, Light Expenses: 3612,80, Total Expenses: 8472,50
+Month: February, Water Expenses: 4337,81, Light Expenses: 3379,80, Total Expenses: 7717,61
+Month: March, Water Expenses: 5399,96, Light Expenses: 3181,40, Total Expenses: 8581,36
+Month: April, Water Expenses: 4980,92, Light Expenses: 4119,00, Total Expenses: 9099,92
+Month: May, Water Expenses: 4090,46, Light Expenses: 3424,60, Total Expenses: 7515,06
+Month: June, Water Expenses: 3747,08, Light Expenses: 3834,20, Total Expenses: 7581,28
+Month: July, Water Expenses: 5085,68, Light Expenses: 4074,20, Total Expenses: 9159,88
+Month: August, Water Expenses: 5330,12, Light Expenses: 3906,68, Total Expenses: 9236,80
+Month: September, Water Expenses: 4163,21, Light Expenses: 3603,80, Total Expenses: 7767,01
+Month: October, Water Expenses: 4628,81, Light Expenses: 3531,80, Total Expenses: 8160,61
+Month: November, Water Expenses: 2929,37, Light Expenses: 3794,20, Total Expenses: 6723,57
+Month: December, Water Expenses: 3974,06, Light Expenses: 3989,40, Total Expenses: 7963,46
+
+}
+
+
+[05.12.2023 04:52] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 04:52] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Bodnar, Water price: 2669,28, Light price: 1524,45, Total price: 4193,73
+Surname: Feduniak, Water price: 3084,68, Light price: 1767,90, Total price: 4852,58
+Surname: Legeza, Water price: 2572,80, Light price: 1719,00, Total price: 4291,80
+Surname: Lukianov, Water price: 2693,40, Light price: 1820,40, Total price: 4513,80
+Surname: Razik, Water price: 2438,80, Light price: 1800,75, Total price: 4239,55
+Surname: Revus, Water price: 2154,72, Light price: 1942,50, Total price: 4097,22
+Surname: Skakovskyi, Water price: 2604,96, Light price: 1713,30, Total price: 4318,26
+
+}
+
+
+[05.12.2023 04:53] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 04:53] Назва функції: ReadFromFile {
+
+File Selected: 2021.txt
+Input Year: 2021
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 04:53] Назва функції: DisplayRichPerson {
+
+Flats with the highest expenses:
+Flat 12, Water Expenses: 11065,99, Light Expenses: 7150,83
+Total expenses: 18216,82
+
+}
+
+
+[05.12.2023 10:27] Назва функції: ReadFromFile {
+
+File Selected: 2019.txt
+Input Year: 2019
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 10:28] Назва функції: ReadFromFile {
+
+File Selected: 2019.txt
+Input Year: 2019
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 10:28] Назва функції: ReadFromFile {
+
+File Selected: 2020.txt
+Input Year: 2020
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 10:28] Назва функції: ReadFromFile {
+
+File Selected: 2021.txt
+Input Year: 2021
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 10:28] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 10:28] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 10:32] Назва функції: ReadFromFile {
+
+File Selected: 2019.txt
+Input Year: 2019
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 10:34] Назва функції: ReadFromFile {
+
+File Selected: 2019.txt
+Input Year: 2019
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 11:59] Назва функції: ReadFromFile {
+
+File Selected: 2019.txt
+Input Year: 2019
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 11:59] Назва функції: ReadFromFile {
+
+File Selected: 2020.txt
+Input Year: 2020
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 11:59] Назва функції: ReadFromFile {
+
+File Selected: 2021.txt
+Input Year: 2021
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 11:59] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 11:59] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 11:59] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for any flats
+Month: February, Not filled info:for any flats
+Month: March, Not filled info:for any flats
+Month: April, Not filled info:for any flats
+Month: May, Not filled info:for any flats
+Month: June, Not filled info:for any flats
+Month: July, Not filled info:for any flats
+Month: August, Not filled info:for any flats
+Month: September, Not filled info:for any flats
+Month: October, Not filled info:for any flats
+Month: November, Not filled info:for any flats
+Month: December, Not filled info:for any flats
+
+}
+
+
+[05.12.2023 12:00] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:6 9 13 17 20 
+Month: February, Not filled info:1 4 5 7 14 15 18 
+Month: March, Not filled info:3 5 6 9 10 19 
+Month: April, Not filled info:2 8 20 
+Month: May, Not filled info:2 3 4 6 8 16 18 20 
+Month: June, Not filled info:1 2 5 7 10 11 14 16 17 19 
+Month: July, Not filled info:3 4 12 15 19 
+Month: August, Not filled info:1 3 6 16 17 18 
+Month: September, Not filled info:2 5 9 10 13 18 
+Month: October, Not filled info:1 3 16 
+Month: November, Not filled info:2 4 8 14 
+Month: December, Not filled info:1 7 11 13 15 16 17 19 20 
+
+}
+
+
+[05.12.2023 12:00] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:3 4 9 11 
+Month: February, Not filled info:1 4 5 9 
+Month: March, Not filled info:6 7 8 14 15 16 
+Month: April, Not filled info:2 3 4 5 6 17 18 
+Month: May, Not filled info:1 2 3 4 5 11 12 13 17 
+Month: June, Not filled info:1 2 6 8 10 14 17 18 
+Month: July, Not filled info:3 4 6 7 16 
+Month: August, Not filled info:1 3 8 9 11 15 
+Month: September, Not filled info:1 2 4 5 9 12 
+Month: October, Not filled info:1 3 9 10 12 
+Month: November, Not filled info:2 4 5 6 7 14 17 18 
+Month: December, Not filled info:1 3 10 13 
+
+}
+
+
+[05.12.2023 12:00] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for any flats
+Month: February, Not filled info:14 16 
+Month: March, Not filled info:4 6 12 17 19 20 
+Month: April, Not filled info:2 7 9 11 13 
+Month: May, Not filled info:1 8 10 15 16 18 
+Month: June, Not filled info:14 17 19 
+Month: July, Not filled info:12 
+Month: August, Not filled info:3 4 9 
+Month: September, Not filled info:for any flats
+Month: October, Not filled info:1 6 7 13 18 
+Month: November, Not filled info:5 8 9 11 17 
+Month: December, Not filled info:10 19 
+
+}
+
+
+[05.12.2023 12:00] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for each flats
+Month: February, Not filled info:for each flats
+Month: March, Not filled info:for each flats
+Month: April, Not filled info:for each flats
+Month: May, Not filled info:for each flats
+Month: June, Not filled info:for each flats
+Month: July, Not filled info:for each flats
+Month: August, Not filled info:for each flats
+Month: September, Not filled info:for each flats
+Month: October, Not filled info:for each flats
+Month: November, Not filled info:for each flats
+Month: December, Not filled info:for each flats
+
+}
+
+
+[05.12.2023 12:00] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Bachynskyi, Water price: 1931,30, Light price: 1458,90, Total price: 3390,20
+Surname: Bodnar, Water price: 1787,15, Light price: 1400,85, Total price: 3188,00
+Surname: Debeliak, Water price: 1624,40, Light price: 1096,92, Total price: 2721,32
+Surname: Feduniak, Water price: 2018,10, Light price: 1579,95, Total price: 3598,05
+Surname: Franchuk, Water price: 1700,35, Light price: 1281,60, Total price: 2981,95
+Surname: Holub, Water price: 1435,30, Light price: 1202,49, Total price: 2637,79
+Surname: Ivanov, Water price: 1725,15, Light price: 1476,18, Total price: 3201,33
+Surname: Kovalenko, Water price: 1906,50, Light price: 1638,45, Total price: 3544,95
+Surname: Legeza, Water price: 1441,50, Light price: 1139,31, Total price: 2580,81
+Surname: Lukianov, Water price: 2084,75, Light price: 1512,36, Total price: 3597,11
+Surname: Ovcharenko, Water price: 1584,10, Light price: 1208,61, Total price: 2792,71
+Surname: Petrov, Water price: 1717,40, Light price: 1460,97, Total price: 3178,37
+Surname: Razik, Water price: 1873,95, Light price: 1308,78, Total price: 3182,73
+Surname: Revus, Water price: 1666,25, Light price: 1303,02, Total price: 2969,27
+Surname: Sakh, Water price: 1559,30, Light price: 1024,47, Total price: 2583,77
+Surname: Skakovskyi, Water price: 1464,75, Light price: 1170,36, Total price: 2635,11
+Surname: Vashchuk, Water price: 1680,20, Light price: 1286,73, Total price: 2966,93
+Surname: Yaroshovych, Water price: 2018,10, Light price: 1576,26, Total price: 3594,36
+
+}
+
+
+[05.12.2023 12:00] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Bodnar, Water price: 1787,15, Light price: 1400,85, Total price: 3188,00
+Surname: Legeza, Water price: 1441,50, Light price: 1139,31, Total price: 2580,81
+Surname: Lukianov, Water price: 2084,75, Light price: 1512,36, Total price: 3597,11
+Surname: Skakovskyi, Water price: 1464,75, Light price: 1170,36, Total price: 2635,11
+
+}
+
+
+[05.12.2023 12:00] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 3230,20, Light Expenses: 2502,54, Total Expenses: 5732,74
+Month: February, Water Expenses: 2802,95, Light Expenses: 2076,11, Total Expenses: 4879,06
+Month: March, Water Expenses: 2446,45, Light Expenses: 1772,99, Total Expenses: 4219,44
+Month: April, Water Expenses: 3185,80, Light Expenses: 2618,18, Total Expenses: 5803,98
+Month: May, Water Expenses: 2161,25, Light Expenses: 1729,43, Total Expenses: 3890,68
+Month: June, Water Expenses: 3133,10, Light Expenses: 2428,73, Total Expenses: 5561,83
+Month: July, Water Expenses: 2852,55, Light Expenses: 2219,21, Total Expenses: 5071,76
+Month: August, Water Expenses: 2761,10, Light Expenses: 2339,00, Total Expenses: 5100,10
+Month: September, Water Expenses: 3534,55, Light Expenses: 2486,51, Total Expenses: 6021,06
+Month: October, Water Expenses: 2675,85, Light Expenses: 1864,16, Total Expenses: 4540,01
+Month: November, Water Expenses: 2762,65, Light Expenses: 2454,20, Total Expenses: 5216,85
+Month: December, Water Expenses: 2824,65, Light Expenses: 2394,53, Total Expenses: 5219,18
+
+}
+
+
+[05.12.2023 12:00] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 6474,75, Light Expenses: 4832,00, Total Expenses: 11306,75
+Month: February, Water Expenses: 5801,54, Light Expenses: 4515,80, Total Expenses: 10317,34
+Month: March, Water Expenses: 7212,89, Light Expenses: 4256,60, Total Expenses: 11469,49
+Month: April, Water Expenses: 6648,35, Light Expenses: 5499,80, Total Expenses: 12148,15
+Month: May, Water Expenses: 5469,80, Light Expenses: 4589,40, Total Expenses: 10059,20
+Month: June, Water Expenses: 4998,38, Light Expenses: 5131,80, Total Expenses: 10130,18
+Month: July, Water Expenses: 6796,76, Light Expenses: 5451,80, Total Expenses: 12248,56
+Month: August, Water Expenses: 7113,95, Light Expenses: 5234,04, Total Expenses: 12347,99
+Month: September, Water Expenses: 5560,01, Light Expenses: 4823,00, Total Expenses: 10383,01
+Month: October, Water Expenses: 6185,66, Light Expenses: 4727,00, Total Expenses: 10912,66
+Month: November, Water Expenses: 3912,95, Light Expenses: 5077,40, Total Expenses: 8990,35
+Month: December, Water Expenses: 5318,48, Light Expenses: 5336,60, Total Expenses: 10655,08
+
+}
+
+
+[05.12.2023 12:01] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 4902,00, Light Expenses: 2943,33, Total Expenses: 7845,33
+Month: February, Water Expenses: 4857,14, Light Expenses: 2908,14, Total Expenses: 7765,28
+Month: March, Water Expenses: 5099,66, Light Expenses: 2790,10, Total Expenses: 7889,76
+Month: April, Water Expenses: 4170,86, Light Expenses: 2669,72, Total Expenses: 6840,58
+Month: May, Water Expenses: 2736,38, Light Expenses: 2011,66, Total Expenses: 4748,04
+Month: June, Water Expenses: 3701,30, Light Expenses: 2448,33, Total Expenses: 6149,63
+Month: July, Water Expenses: 4578,50, Light Expenses: 3017,73, Total Expenses: 7596,23
+Month: August, Water Expenses: 4604,30, Light Expenses: 2684,02, Total Expenses: 7288,32
+Month: September, Water Expenses: 4320,50, Light Expenses: 2650,87, Total Expenses: 6971,37
+Month: October, Water Expenses: 4996,46, Light Expenses: 2920,88, Total Expenses: 7917,34
+Month: November, Water Expenses: 3087,26, Light Expenses: 2299,09, Total Expenses: 5386,35
+Month: December, Water Expenses: 4323,08, Light Expenses: 3242,76, Total Expenses: 7565,84
+
+}
+
+
+[05.12.2023 12:01] Назва функції: SetPrice {
+
+Water price set to 10,00, Light price set to 10,00
+}
+
+
+[05.12.2023 12:01] Назва функції: DisplayRichPerson {
+
+Flats with the highest expenses:
+Flat 12, Water Expenses: 15525,69, Light Expenses: 10336,83
+Total expenses: 25862,52
+
+}
+
+
+[05.12.2023 12:01] Назва функції: MonthsExpences {
+
+Data successfully cleared
+
+}
+
+
+[05.12.2023 12:03] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 12:05] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 12:05] Назва функції: MonthsExpences {
+
+Data successfully cleared
+
+}
+
+
+[05.12.2023 12:26] Назва функції: ReadFromFile {
+
+File Selected: 2020.txt
+Input Year: 2020
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 12:27] Назва функції: AddInformation {
+
+Surname: Skakovskyi
+Water Use: 10
+Light Use: 16
+Flat Number: 2
+Year: 2020
+Month: January
+Processed: Data successfully added
+
+}
+
+
+[05.12.2023 12:28] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for any flats
+Month: February, Not filled info:14 16 
+Month: March, Not filled info:4 6 12 17 19 20 
+Month: April, Not filled info:2 7 9 11 13 
+Month: May, Not filled info:1 8 10 15 16 18 
+Month: June, Not filled info:14 17 19 
+Month: July, Not filled info:12 
+Month: August, Not filled info:3 4 9 
+Month: September, Not filled info:for any flats
+Month: October, Not filled info:1 6 7 13 18 
+Month: November, Not filled info:5 8 9 11 17 
+Month: December, Not filled info:10 19 
+
+}
+
+
+[05.12.2023 12:28] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for each flats
+Month: February, Not filled info:for each flats
+Month: March, Not filled info:for each flats
+Month: April, Not filled info:for each flats
+Month: May, Not filled info:for each flats
+Month: June, Not filled info:for each flats
+Month: July, Not filled info:for each flats
+Month: August, Not filled info:for each flats
+Month: September, Not filled info:for each flats
+Month: October, Not filled info:for each flats
+Month: November, Not filled info:for each flats
+Month: December, Not filled info:for each flats
+
+}
+
+
+[05.12.2023 12:28] Назва функції: OutputToFile {
+
+Flat information successfully output to file
+}
+
+
+[05.12.2023 12:29] Назва функції: SetPrice {
+
+Water price set to 26,00, Light price set to 1,50
+}
+
+
+[05.12.2023 12:29] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 4857,04, Light Expenses: 2934,80, Total Expenses: 7791,84
+Month: February, Water Expenses: 4372,08, Light Expenses: 2839,31, Total Expenses: 7211,39
+Month: March, Water Expenses: 3129,48, Light Expenses: 2030,26, Total Expenses: 5159,74
+Month: April, Water Expenses: 3628,70, Light Expenses: 2326,71, Total Expenses: 5955,41
+Month: May, Water Expenses: 3354,02, Light Expenses: 2284,25, Total Expenses: 5638,27
+Month: June, Water Expenses: 4036,36, Light Expenses: 2516,02, Total Expenses: 6552,38
+Month: July, Water Expenses: 4792,82, Light Expenses: 3138,40, Total Expenses: 7931,22
+Month: August, Water Expenses: 4180,24, Light Expenses: 2533,29, Total Expenses: 6713,53
+Month: September, Water Expenses: 4282,70, Light Expenses: 3047,32, Total Expenses: 7330,02
+Month: October, Water Expenses: 3761,68, Light Expenses: 2262,69, Total Expenses: 6024,37
+Month: November, Water Expenses: 3327,86, Light Expenses: 2370,27, Total Expenses: 5698,13
+Month: December, Water Expenses: 3905,56, Light Expenses: 2894,09, Total Expenses: 6799,65
+
+}
+
+
+[05.12.2023 12:30] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Bachynskyi, Water price: 2358,76, Light price: 1480,27, Total price: 3839,03
+Surname: Bodnar, Water price: 2709,74, Light price: 1772,43, Total price: 4482,17
+Surname: Feduniak, Water price: 2576,76, Light price: 1699,83, Total price: 4276,59
+Surname: Legeza, Water price: 2502,64, Light price: 1606,88, Total price: 4109,52
+Surname: Lukianov, Water price: 2415,44, Light price: 1717,32, Total price: 4132,76
+Surname: Razik, Water price: 2286,82, Light price: 1502,71, Total price: 3789,53
+Surname: Revus, Water price: 2343,50, Light price: 1505,13, Total price: 3848,63
+Surname: Skakovskyi, Water price: 2626,90, Light price: 1587,08, Total price: 4213,98
+
+}
+
+
+[05.12.2023 12:31] Назва функції: ReadFromFile {
+
+File Selected: 2020.txt
+Input Year: 2020
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 12:31] Назва функції: ReadFromFile {
+
+File Selected: 2021.txt
+Input Year: 2021
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 12:31] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 12:31] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 12:32] Назва функції: ReadFromFile {
+
+File Selected: 2019.txt
+Input Year: 2019
+Data Successfully Read and Updated
+
+}
+
+
+[05.12.2023 12:32] Назва функції: DisplayRichPerson {
+
+Flats with the highest expenses:
+Flat 12, Water Expenses: 15525,69, Light Expenses: 10336,83
+Total expenses: 25862,52
+
+}
+
+
+[05.12.2023 12:33] Назва функції: MonthsExpences {
+
+Data successfully cleared
+
+}
+
+
+[14.12.2023 08:24] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[14.12.2023 08:24] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[14.12.2023 08:24] Назва функції: ReadFromFile {
+
+File Selected: 2020.txt
+Input Year: 2020
+Data Successfully Read and Updated
+
+}
+
+
+[14.12.2023 08:24] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for each flats
+Month: February, Not filled info:for each flats
+Month: March, Not filled info:for each flats
+Month: April, Not filled info:for each flats
+Month: May, Not filled info:for each flats
+Month: June, Not filled info:for each flats
+Month: July, Not filled info:for each flats
+Month: August, Not filled info:for each flats
+Month: September, Not filled info:for each flats
+Month: October, Not filled info:for each flats
+Month: November, Not filled info:for each flats
+Month: December, Not filled info:for each flats
+
+}
+
+
+[14.12.2023 08:24] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for any flats
+Month: February, Not filled info:14 16 
+Month: March, Not filled info:4 6 12 17 19 20 
+Month: April, Not filled info:2 7 9 11 13 
+Month: May, Not filled info:1 8 10 15 16 18 
+Month: June, Not filled info:14 17 19 
+Month: July, Not filled info:12 
+Month: August, Not filled info:3 4 9 
+Month: September, Not filled info:for any flats
+Month: October, Not filled info:1 6 7 13 18 
+Month: November, Not filled info:5 8 9 11 17 
+Month: December, Not filled info:10 19 
+
+}
+
+
+[14.12.2023 08:24] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Bodnar, Water price: 2709,74, Light price: 1772,43, Total price: 4482,17
+Surname: Feduniak, Water price: 2576,76, Light price: 1699,83, Total price: 4276,59
+Surname: Legeza, Water price: 2502,64, Light price: 1606,88, Total price: 4109,52
+Surname: Lukianov, Water price: 2415,44, Light price: 1717,32, Total price: 4132,76
+Surname: Skakovskyi, Water price: 2642,16, Light price: 1747,02, Total price: 4389,18
+
+}
+
+
+[14.12.2023 08:25] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 4872,30, Light Expenses: 3094,74, Total Expenses: 7967,04
+Month: February, Water Expenses: 4372,08, Light Expenses: 2839,31, Total Expenses: 7211,39
+Month: March, Water Expenses: 3129,48, Light Expenses: 2030,26, Total Expenses: 5159,74
+Month: April, Water Expenses: 3628,70, Light Expenses: 2326,71, Total Expenses: 5955,41
+Month: May, Water Expenses: 3354,02, Light Expenses: 2284,25, Total Expenses: 5638,27
+Month: June, Water Expenses: 4036,36, Light Expenses: 2516,02, Total Expenses: 6552,38
+Month: July, Water Expenses: 4792,82, Light Expenses: 3138,40, Total Expenses: 7931,22
+Month: August, Water Expenses: 4180,24, Light Expenses: 2533,29, Total Expenses: 6713,53
+Month: September, Water Expenses: 4282,70, Light Expenses: 3047,32, Total Expenses: 7330,02
+Month: October, Water Expenses: 3761,68, Light Expenses: 2262,69, Total Expenses: 6024,37
+Month: November, Water Expenses: 3327,86, Light Expenses: 2370,27, Total Expenses: 5698,13
+Month: December, Water Expenses: 3905,56, Light Expenses: 2894,09, Total Expenses: 6799,65
+
+}
+
+
+[14.12.2023 08:25] Назва функції: MonthsExpences {
+
+Data successfully cleared
+
+}
+
+
+[16.12.2023 20:53] Назва функції: AddInformation {
+
+Surname: Skakovskyi
+Water Use: 12
+Light Use: 150
+Flat Number: 1
+Year: 2022
+Month: March
+Processed: Data successfully added
+
+}
+
+
+[16.12.2023 20:53] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[16.12.2023 20:53] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[16.12.2023 20:53] Назва функції: ReadFromFile {
+
+File Selected: 2021.txt
+Input Year: 2021
+Data Successfully Read and Updated
+
+}
+
+
+[16.12.2023 20:53] Назва функції: ReadFromFile {
+
+File Selected: 2020.txt
+Input Year: 2020
+Data Successfully Read and Updated
+
+}
+
+
+[16.12.2023 20:53] Назва функції: ReadFromFile {
+
+File Selected: 2019.txt
+Input Year: 2019
+Data Successfully Read and Updated
+
+}
+
+
+[16.12.2023 20:55] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:6 9 13 17 20 
+Month: February, Not filled info:1 4 5 7 14 15 18 
+Month: March, Not filled info:3 5 6 9 10 19 
+Month: April, Not filled info:2 8 20 
+Month: May, Not filled info:2 3 4 6 8 16 18 20 
+Month: June, Not filled info:1 2 5 7 10 11 14 16 17 19 
+Month: July, Not filled info:3 4 12 15 19 
+Month: August, Not filled info:1 3 6 16 17 18 
+Month: September, Not filled info:2 5 9 10 13 18 
+Month: October, Not filled info:1 3 16 
+Month: November, Not filled info:2 4 8 14 
+Month: December, Not filled info:1 7 11 13 15 16 17 19 20 
+
+}
+
+
+[16.12.2023 20:55] Назва функції: SetPrice {
+
+Water price set to 29,10, Light price set to 1,60
+}
+
+
+[16.12.2023 20:55] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for any flats
+Month: February, Not filled info:for any flats
+Month: March, Not filled info:for any flats
+Month: April, Not filled info:for any flats
+Month: May, Not filled info:for any flats
+Month: June, Not filled info:for any flats
+Month: July, Not filled info:for any flats
+Month: August, Not filled info:for any flats
+Month: September, Not filled info:for any flats
+Month: October, Not filled info:for any flats
+Month: November, Not filled info:for any flats
+Month: December, Not filled info:for any flats
+
+}
+
+
+[16.12.2023 20:55] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Bachynskyi, Water price: 2492,40, Light price: 1861,20, Total price: 4353,60
+Surname: Bodnar, Water price: 2669,28, Light price: 1524,45, Total price: 4193,73
+Surname: Feduniak, Water price: 3084,68, Light price: 1767,90, Total price: 4852,58
+Surname: Legeza, Water price: 2572,80, Light price: 1719,00, Total price: 4291,80
+Surname: Lukianov, Water price: 2693,40, Light price: 1820,40, Total price: 4513,80
+Surname: Ovcharenko, Water price: 3427,72, Light price: 2238,60, Total price: 5666,32
+Surname: Razik, Water price: 2438,80, Light price: 1800,75, Total price: 4239,55
+Surname: Revus, Water price: 2154,72, Light price: 1942,50, Total price: 4097,22
+Surname: Sakh, Water price: 3092,72, Light price: 2284,65, Total price: 5377,37
+Surname: Skakovskyi, Water price: 2604,96, Light price: 1713,30, Total price: 4318,26
+Surname: Vashchuk, Water price: 3869,92, Light price: 2037,30, Total price: 5907,22
+Surname: Yaroshovych, Water price: 3990,52, Light price: 2432,85, Total price: 6423,37
+
+}
+
+
+[16.12.2023 20:56] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 5025,00, Light Expenses: 3342,90, Total Expenses: 8367,90
+Month: February, Water Expenses: 4412,96, Light Expenses: 2742,20, Total Expenses: 7155,16
+Month: March, Water Expenses: 5034,72, Light Expenses: 3028,70, Total Expenses: 8063,42
+Month: April, Water Expenses: 5916,44, Light Expenses: 3960,80, Total Expenses: 9877,24
+Month: May, Water Expenses: 4067,24, Light Expenses: 2948,00, Total Expenses: 7015,24
+Month: June, Water Expenses: 2987,20, Light Expenses: 2391,35, Total Expenses: 5378,55
+Month: July, Water Expenses: 5522,48, Light Expenses: 3332,15, Total Expenses: 8854,63
+Month: August, Water Expenses: 4863,20, Light Expenses: 3216,35, Total Expenses: 8079,55
+Month: September, Water Expenses: 4477,28, Light Expenses: 2943,80, Total Expenses: 7421,08
+Month: October, Water Expenses: 5364,36, Light Expenses: 3905,90, Total Expenses: 9270,26
+Month: November, Water Expenses: 4198,56, Light Expenses: 3799,10, Total Expenses: 7997,66
+Month: December, Water Expenses: 3434,76, Light Expenses: 2605,10, Total Expenses: 6039,86
+
+}
+
+
+[16.12.2023 20:57] Назва функції: DisplayRichPerson {
+
+Flats with the highest expenses:
+Flat 12, Water Expenses: 15525,69, Light Expenses: 10336,83
+Total expenses: 25862,52
+
+}
+
+
+[16.12.2023 20:57] Назва функції: MonthsExpences {
+
+Data successfully cleared
+
+}
+
+
+[16.12.2023 20:57] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for each flats
+Month: February, Not filled info:for each flats
+Month: March, Not filled info:for each flats
+Month: April, Not filled info:for each flats
+Month: May, Not filled info:for each flats
+Month: June, Not filled info:for each flats
+Month: July, Not filled info:for each flats
+Month: August, Not filled info:for each flats
+Month: September, Not filled info:for each flats
+Month: October, Not filled info:for each flats
+Month: November, Not filled info:for each flats
+Month: December, Not filled info:for each flats
+
+}
+
+
+[04.01.2024 16:14] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[04.01.2024 16:14] Назва функції: ReadFromFile {
+
+File Selected: 2023.txt
+Input Year: 2023
+Data Successfully Read and Updated
+
+}
+
+
+[04.01.2024 16:14] Назва функції: ReadFromFile {
+
+File Selected: 2022.txt
+Input Year: 2022
+Data Successfully Read and Updated
+
+}
+
+
+[04.01.2024 16:14] Назва функції: ReadFromFile {
+
+File Selected: 2019.txt
+Input Year: 2019
+Data Successfully Read and Updated
+
+}
+
+
+[04.01.2024 16:14] Назва функції: ReadFromFile {
+
+File Selected: 2020.txt
+Input Year: 2020
+Data Successfully Read and Updated
+
+}
+
+
+[04.01.2024 16:14] Назва функції: ReadFromFile {
+
+File Selected: 2021.txt
+Input Year: 2021
+Data Successfully Read and Updated
+
+}
+
+
+[04.01.2024 16:15] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:2 
+Month: February, Not filled info:6 11 19 
+Month: March, Not filled info:1 9 15 18 19 
+Month: April, Not filled info:14 
+Month: May, Not filled info:2 3 11 13 17 19 20 
+Month: June, Not filled info:10 
+Month: July, Not filled info:1 7 15 
+Month: August, Not filled info:9 11 14 
+Month: September, Not filled info:for any flats
+Month: October, Not filled info:2 6 8 10 13 
+Month: November, Not filled info:15 
+Month: December, Not filled info:1 14 
+
+}
+
+
+[04.01.2024 16:15] Назва функції: ShowNotFilledInfo {
+
+Not filled info for selected year:
+Month: January, Not filled info:for each flats
+Month: February, Not filled info:for each flats
+Month: March, Not filled info:for each flats
+Month: April, Not filled info:for each flats
+Month: May, Not filled info:for each flats
+Month: June, Not filled info:for each flats
+Month: July, Not filled info:for each flats
+Month: August, Not filled info:for each flats
+Month: September, Not filled info:for each flats
+Month: October, Not filled info:for each flats
+Month: November, Not filled info:for each flats
+Month: December, Not filled info:for each flats
+
+}
+
+
+[04.01.2024 16:15] Назва функції: SetPrice {
+
+Water price set to 25,00, Light price set to 1,00
+}
+
+
+[04.01.2024 16:16] Назва функції: DisplaySavers {
+
+Displayed savers information:
+Surname: Bodnar, Water price: 1940,16, Light price: 959,79, Total price: 2899,95
+Surname: Feduniak, Water price: 2306,52, Light price: 1324,96, Total price: 3631,48
+Surname: Legeza, Water price: 1638,30, Light price: 1076,40, Total price: 2714,70
+Surname: Lukianov, Water price: 1950,48, Light price: 921,57, Total price: 2872,05
+Surname: Revus, Water price: 2466,48, Light price: 1386,19, Total price: 3852,67
+Surname: Skakovskyi, Water price: 2675,46, Light price: 1578,46, Total price: 4253,92
+
+}
+
+
+[04.01.2024 16:16] Назва функції: MonthsExpences {
+
+Calculated monthly expenses for the selected year:
+Month: January, Water Expenses: 4902,00, Light Expenses: 2943,33, Total Expenses: 7845,33
+Month: February, Water Expenses: 4857,14, Light Expenses: 2908,14, Total Expenses: 7765,28
+Month: March, Water Expenses: 5099,66, Light Expenses: 2790,10, Total Expenses: 7889,76
+Month: April, Water Expenses: 4170,86, Light Expenses: 2669,72, Total Expenses: 6840,58
+Month: May, Water Expenses: 2736,38, Light Expenses: 2011,66, Total Expenses: 4748,04
+Month: June, Water Expenses: 3701,30, Light Expenses: 2448,33, Total Expenses: 6149,63
+Month: July, Water Expenses: 4578,50, Light Expenses: 3017,73, Total Expenses: 7596,23
+Month: August, Water Expenses: 4604,30, Light Expenses: 2684,02, Total Expenses: 7288,32
+Month: September, Water Expenses: 4320,50, Light Expenses: 2650,87, Total Expenses: 6971,37
+Month: October, Water Expenses: 4996,46, Light Expenses: 2920,88, Total Expenses: 7917,34
+Month: November, Water Expenses: 3087,26, Light Expenses: 2299,09, Total Expenses: 5386,35
+Month: December, Water Expenses: 4323,08, Light Expenses: 3242,76, Total Expenses: 7565,84
+
+}
+
+
+[04.01.2024 16:16] Назва функції: SetPrice {
+
+Water price set to 28,00, Light price set to 2,00
+}
+
+
+[04.01.2024 16:17] Назва функції: DisplayRichPerson {
+
+Flats with the highest expenses:
+Flat 12, Water Expenses: 15525,69, Light Expenses: 10336,83
+Total expenses: 25862,52
+
+}
+
+
+[04.01.2024 16:17] Назва функції: MonthsExpences {
+
+Data successfully cleared
+
+}
+
+

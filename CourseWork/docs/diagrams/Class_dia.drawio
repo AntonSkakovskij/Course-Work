@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-12-04T21:47:25.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.5" etag="GoX5UaaTK1V9vJAd_WJ2" type="device">
+  <diagram id="LpHXY4PnpBFSnpFit8XP" name="Сторінка-1">
+    <mxGraphModel dx="26020" dy="12140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="node7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ApplicationFunc&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ shellSort(String[], int[]): void&lt;br/&gt;+ OutputToLogFile(String, String, String): void&lt;br/&gt;- stringCompare(String, String): int&lt;br/&gt;+ SetTableInfo(Building, int, int): Object[][]&lt;br/&gt;+ OutputFlatsInfoToFile(Building, int, int): void&lt;br/&gt;+ UpdateTextFields(Building, int, int, int, JTextField, JTextField): void&lt;br/&gt;+ ReadFlatsInfoFromFile(Building, int, File): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="-70" width="433" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="node9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Building&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- fFlats: Flat[]&lt;br&gt;- rpYearsPrices: ResourcesPrice[]&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px; line-height: 1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; Building()&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px; line-height: 1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; Building(int, int)&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px; line-height: 1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; Building(Building)&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ setFlatExpences(int, int, int, double, double): void&lt;br&gt;+ calculateMonthExpences(int): double[][]&lt;br&gt;+ ClearInfo(): void&lt;br&gt;+ setSurname(int, String): void&lt;br&gt;+ getYearPrices(int): ResourcesPrice&lt;br&gt;+ OutputNotFilledMonths(int): Vector&amp;lt;Integer&amp;gt;[]&lt;br&gt;+ getFlatYearExpences(int, int): double[]&lt;br&gt;+ getSavers(int, int): Vector&amp;lt;Integer&amp;gt;&lt;br&gt;+ getSurname(int): String&lt;br&gt;+ setYearPrices(int, double, double): void&lt;br&gt;+ getNumberOfFlats(): int&lt;br&gt;+ findFlatsWithHighestExpenses(): ArrayList&amp;lt;Object[]&amp;gt;&lt;br&gt;+ getFlatExpences(int, int, int): ResourcesUse&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="63" y="720" width="380" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="node2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- iFlatNumber: int&lt;br&gt;- ruFlatExpenses: ResourcesUse[][]&lt;br&gt;- sSurname: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; Flat()&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; Flat(int, int&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; Flat(Flat)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ calculateYearExpenses(int, ResourcesPrice): double[]&lt;br&gt;+ isMonthFilled(int, int): boolean&lt;br&gt;+ getSurname(): String&lt;br&gt;+ getFlatNumber(): int&lt;br&gt;+ setSurname(String): void&lt;br&gt;+ getFlatExpenses(int, int): ResourcesUse&lt;br&gt;+ calculateMonthExpenses(int, int, ResourcesPrice): double[]&lt;br&gt;+ calculateTotalExpenses(ResourcesPrice[]): double[]&lt;br&gt;+ setFlatExpenses(int, int, double, double): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="211" y="190" width="415" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="node3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ResourcesPrice&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- lfWaterPrice: double&lt;br&gt;- lfLightPrice: double&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px; line-height: 1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; ResourcesPrice()&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px; line-height: 1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; ResourcesPrice(int, int)&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px; line-height: 1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; ResourcesPrice(ResourcesPrice)&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ getWaterPrice(): double&lt;br&gt;+ getLightPrice(): double&lt;br&gt;+ setYearPrices(double, double): void&lt;br&gt;+ setWaterPrice(double): void&lt;br&gt;+ getYearPrices(): ResourcesPrice&lt;br&gt;+ setLightPrice(double): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="161" width="333" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="node4" target="node2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="node4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ResourcesUse&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- iLightUse: double&lt;br&gt;- iWaterUse: double&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px; line-height: 1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; ResourcesUse()&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px; line-height: 1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; ResourcesUse(int, int)&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px; line-height: 1.6;&quot;&gt;+&amp;lt;&amp;lt;constructor&amp;gt;&amp;gt; ResourcesUse(ResourcesUse)&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ getLightUse(): double&lt;br&gt;+ setWaterUse(double): void&lt;br&gt;+ getWaterUse(): double&lt;br&gt;+ setLightUse(double): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="259.25" y="-200" width="317.5" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-3" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.935;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="node2" target="node9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="610" y="510" as="sourcePoint" />
+            <mxPoint x="418" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="node3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="240" as="sourcePoint" />
+            <mxPoint x="120" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="675" width="20" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-12" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="418" y="682.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-14" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="468" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-15" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="675" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-16" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="418" y="590" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="161" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-19" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="413" y="161" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1iBA8mVDUs5t9VKDQkC-20" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="413" y="70" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

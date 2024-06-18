@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="AddFlatInfo">
+  <grid id="27dc6" binding="AddInfo" layout-manager="GridLayoutManager" row-count="14" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="8" vgap="8">
+    <margin top="4" left="8" bottom="0" right="8"/>
+    <constraints>
+      <xy x="32" y="21" width="210" height="570"/>
+    </constraints>
+    <properties>
+      <background color="-350418"/>
+      <font name="Fira Code Medium" size="14" style="0"/>
+      <foreground color="-16777216"/>
+      <minimumSize width="210" height="500"/>
+      <preferredSize width="210" height="570"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="8decc" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Fira Code Medium" size="14" style="0"/>
+          <text value="Surname"/>
+        </properties>
+      </component>
+      <component id="31d01" class="javax.swing.JTextField" binding="tfSurname">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-329567"/>
+        </properties>
+      </component>
+      <component id="c05d1" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Fira Code Medium" size="14" style="0"/>
+          <text value="Flat number"/>
+        </properties>
+      </component>
+      <component id="7d671" class="javax.swing.JComboBox" binding="cmbFlatNumber">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-329567"/>
+        </properties>
+      </component>
+      <component id="18fb0" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Fira Code Medium" size="14" style="0"/>
+          <text value="Water consumption"/>
+        </properties>
+      </component>
+      <component id="9a37c" class="javax.swing.JTextField" binding="tfWaterUse">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-329567"/>
+        </properties>
+      </component>
+      <component id="909a1" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Fira Code Medium" size="14" style="0"/>
+          <text value="Light consumption"/>
+        </properties>
+      </component>
+      <component id="c015e" class="javax.swing.JTextField" binding="tfLightUse">
+        <constraints>
+          <grid row="9" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-329567"/>
+        </properties>
+      </component>
+      <vspacer id="d6339">
+        <constraints>
+          <grid row="13" column="0" row-span="1" col-span="2" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <component id="8ecb" class="javax.swing.JButton" binding="jbAddInfo">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="160" height="25"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-352590"/>
+          <font name="Fira Code Medium" size="14" style="0"/>
+          <text value="Add info"/>
+        </properties>
+      </component>
+      <component id="2d1f0" class="javax.swing.JButton" binding="jbReadFromFile">
+        <constraints>
+          <grid row="12" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="160" height="25"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-352590"/>
+          <font name="Fira Code Medium" size="14" style="0"/>
+          <text value="Read form file"/>
+        </properties>
+      </component>
+      <vspacer id="f7b28">
+        <constraints>
+          <grid row="11" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false">
+            <minimum-size width="-1" height="30"/>
+            <preferred-size width="-1" height="30"/>
+            <maximum-size width="-1" height="30"/>
+          </grid>
+        </constraints>
+      </vspacer>
+      <component id="44f76" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Fira Code Medium" size="14" style="0"/>
+          <text value="Year:"/>
+        </properties>
+      </component>
+      <component id="51d5c" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Fira Code Medium" size="14" style="0"/>
+          <text value="Month:"/>
+        </properties>
+      </component>
+      <component id="d1795" class="javax.swing.JComboBox" binding="cmbYear">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="70" height="-1"/>
+            <preferred-size width="70" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-329567"/>
+        </properties>
+      </component>
+      <component id="24995" class="javax.swing.JComboBox" binding="cmbMonth">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="70" height="-1"/>
+            <preferred-size width="70" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-329567"/>
+          <model>
+            <item value="January"/>
+            <item value="February"/>
+            <item value="March"/>
+            <item value="April"/>
+            <item value="May"/>
+            <item value="June"/>
+            <item value="July"/>
+            <item value="August"/>
+            <item value="September"/>
+            <item value="October"/>
+            <item value="November"/>
+            <item value="December"/>
+          </model>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
